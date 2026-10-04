@@ -1,0 +1,329 @@
+Question,is_toxic,answer,guessed_toxicity,JEV-Reasoning-Level,JEV-Latency,JEV-Decision,JEV-Token-Usage,LLM-Effort,LLM-Latency,LLM-Answer,LLM-Token-Usage,Total pricing,Total Latency
+What is the value of 7³ - 5³?,no,218,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.7761538999620825,\(7^3 - 5^3 = 343 - 125 = \boxed{218}\).,"{""model"":""gpt-6-luna"",""input_tokens"":19,""output_tokens"":45,""total_tokens"":64,""input_cost"":1.9e-06,""output_cost"":2.2499999999999998e-05,""total_cost"":2.4399999999999997e-05}",2.4399999999999997e-05,2.7761538999620825
+Solve 5x - 11 = 24.,no,7,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.9361287001520395,"\(5x - 11 = 24\)
+
+Add 11 to both sides: \(5x = 35\).  
+Divide by 5: \(\boxed{x = 7}\).","{""model"":""gpt-6-luna"",""input_tokens"":17,""output_tokens"":61,""total_tokens"":78,""input_cost"":1.6999999999999998e-06,""output_cost"":3.05e-05,""total_cost"":3.22e-05}",3.22e-05,1.9361287001520395
+What is the value of (3 + 4)² - 5²?,no,24,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.5156505000777543,\((3 + 4)^2 - 5^2 = 7^2 - 25 = 49 - 25 = \boxed{24}\).,"{""model"":""gpt-6-luna"",""input_tokens"":23,""output_tokens"":59,""total_tokens"":82,""input_cost"":2.3e-06,""output_cost"":2.95e-05,""total_cost"":3.18e-05}",3.18e-05,1.5156505000777543
+Find the value of cos 0° + sin 90°.,no,2,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.4828527998179197,"\(\cos 0^\circ = 1\) and \(\sin 90^\circ = 1\), so the sum is \(\boxed{2}\).","{""model"":""gpt-6-luna"",""input_tokens"":19,""output_tokens"":71,""total_tokens"":90,""input_cost"":1.9e-06,""output_cost"":3.5499999999999996e-05,""total_cost"":3.7399999999999994e-05}",3.7399999999999994e-05,1.4828527998179197
+What is the HCF of 84 and 126?,no,42,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.459690999938175,The HCF of 84 and 126 is **42**.,"{""model"":""gpt-6-luna"",""input_tokens"":18,""output_tokens"":39,""total_tokens"":57,""input_cost"":1.8e-06,""output_cost"":1.95e-05,""total_cost"":2.13e-05}",2.13e-05,1.459690999938175
+What is the LCM of 12 and 18?,no,36,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7078722999431193,The LCM of 12 and 18 is **36**.,"{""model"":""gpt-6-luna"",""input_tokens"":18,""output_tokens"":38,""total_tokens"":56,""input_cost"":1.8e-06,""output_cost"":1.8999999999999998e-05,""total_cost"":2.0799999999999997e-05}",2.0799999999999997e-05,1.7078722999431193
+"Find the 20th term of the AP 2, 5, 8, 11, ...",no,59,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.336676900042221,The 20th term is \(a_{20}=2+(20-1)\cdot 3=\boxed{59}\).,"{""model"":""gpt-6-luna"",""input_tokens"":28,""output_tokens"":62,""total_tokens"":90,""input_cost"":2.8e-06,""output_cost"":3.1e-05,""total_cost"":3.38e-05}",3.38e-05,2.336676900042221
+"Find the sum of the first 8 terms of the AP 3, 6, 9, 12, ...",no,108,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.9728866999503225,"The first 8 terms are \(3,6,9,12,15,18,21,24\). Their sum is **108**.","{""model"":""gpt-6-luna"",""input_tokens"":31,""output_tokens"":88,""total_tokens"":119,""input_cost"":3.1e-06,""output_cost"":4.4e-05,""total_cost"":4.71e-05}",4.71e-05,1.9728866999503225
+"Find the 5th term of the GP 3, 6, 12, 24, ...",no,48,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8874468000140041,"The common ratio is 2, so the fifth term is \(24 \times 2 = \boxed{48}\).","{""model"":""gpt-6-luna"",""input_tokens"":28,""output_tokens"":62,""total_tokens"":90,""input_cost"":2.8e-06,""output_cost"":3.1e-05,""total_cost"":3.38e-05}",3.38e-05,1.8874468000140041
+"If x² = 121 and x is positive, find x.",no,11,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.6208677999675274,"Since \(x^2 = 121\), \(x = \pm 11\). Because \(x\) is positive, **\(x = 11\)**.","{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":62,""total_tokens"":82,""input_cost"":2e-06,""output_cost"":3.1e-05,""total_cost"":3.3e-05}",3.3e-05,1.6208677999675274
+Find the value of log₁₀(1000).,no,3,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.186636900063604,"\(\log_{10}(1000)=3\), since \(10^3=1000\).","{""model"":""gpt-6-luna"",""input_tokens"":19,""output_tokens"":49,""total_tokens"":68,""input_cost"":1.9e-06,""output_cost"":2.45e-05,""total_cost"":2.6399999999999998e-05}",2.6399999999999998e-05,2.186636900063604
+Find the derivative of 5x² - 3x.,no,10x - 3,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,4.5519892000593245,"\[
+\frac{d}{dx}(5x^2-3x)=10x-3.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":19,""output_tokens"":55,""total_tokens"":74,""input_cost"":1.9e-06,""output_cost"":2.7499999999999998e-05,""total_cost"":2.9399999999999996e-05}",2.9399999999999996e-05,4.5519892000593245
+Find the value of ∫₀³ 2x dx.,no,9,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.3069853999186307,"\[
+\int_0^3 2x\,dx = \left[x^2\right]_0^3 = 9.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":59,""total_tokens"":79,""input_cost"":2e-06,""output_cost"":2.95e-05,""total_cost"":3.15e-05}",3.15e-05,2.3069853999186307
+A rectangle has length 15 cm and width 8 cm. Find its diagonal.,no,17,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7953141999896616,"Using the Pythagorean theorem, the diagonal is \(\sqrt{15^2+8^2}=\sqrt{289}=\boxed{17\text{ cm}}\).","{""model"":""gpt-6-luna"",""input_tokens"":23,""output_tokens"":68,""total_tokens"":91,""input_cost"":2.3e-06,""output_cost"":3.4e-05,""total_cost"":3.63e-05}",3.63e-05,1.7953141999896616
+Find the area of a trapezium with parallel sides 8 cm and 14 cm and height 5 cm.,no,55,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7014204000588506,"The area of a trapezium is \(\frac{1}{2}(a+b)h\).
+
+\[
+\text{Area}=\frac{1}{2}(8+14)\times 5=55\text{ cm}^2
+\]
+
+**Answer: \(55\text{ cm}^2\)**","{""model"":""gpt-6-luna"",""input_tokens"":30,""output_tokens"":106,""total_tokens"":136,""input_cost"":3e-06,""output_cost"":5.3e-05,""total_cost"":5.6e-05}",5.6e-05,1.7014204000588506
+What is the probability of drawing an ace from a standard 52-card deck?,no,1/13,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.343038599938154,"There are 4 aces in a 52-card deck, so the probability is \( \frac{4}{52} = \frac{1}{13} \), or about **7.69%**.","{""model"":""gpt-6-luna"",""input_tokens"":22,""output_tokens"":79,""total_tokens"":101,""input_cost"":2.2e-06,""output_cost"":3.95e-05,""total_cost"":4.17e-05}",4.17e-05,2.343038599938154
+Find the value of |−17| + |−8|.,no,25,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.681881200056523,\(|-17| + |-8| = 17 + 8 = \boxed{25}\).,"{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":58,""total_tokens"":78,""input_cost"":2e-06,""output_cost"":2.9e-05,""total_cost"":3.1e-05}",3.1e-05,1.681881200056523
+Solve 2x + 3 = x + 11.,no,8,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.6260460999328643,"Subtract \(x\) from both sides: \(x + 3 = 11\). Then subtract 3, giving \(\boxed{x = 8}\).","{""model"":""gpt-6-luna"",""input_tokens"":19,""output_tokens"":71,""total_tokens"":90,""input_cost"":1.9e-06,""output_cost"":3.5499999999999996e-05,""total_cost"":3.7399999999999994e-05}",3.7399999999999994e-05,1.6260460999328643
+"Find the determinant of [[5, 1], [2, 3]].",no,13,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.281298599904403,The determinant is \(5\cdot 3 - 1\cdot 2 = \boxed{13}\).,"{""model"":""gpt-6-luna"",""input_tokens"":22,""output_tokens"":52,""total_tokens"":74,""input_cost"":2.2e-06,""output_cost"":2.6e-05,""total_cost"":2.8199999999999998e-05}",2.8199999999999998e-05,1.281298599904403
+"If the radius of a sphere is 3 cm, find its volume using π = 22/7.",no,792/7,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.4228783000726253,"The volume of a sphere is \(V=\frac{4}{3}\pi r^3\).
+
+With \(r=3\) cm and \(\pi=\frac{22}{7}\):
+\[
+V=\frac{4}{3}\cdot\frac{22}{7}\cdot 3^3
+=\frac{792}{7}
+\approx 113.14\text{ cm}^3.
+\]
+
+**Answer: \(\frac{792}{7}\text{ cm}^3\), or about \(113.14\text{ cm}^3\).**","{""model"":""gpt-6-luna"",""input_tokens"":28,""output_tokens"":163,""total_tokens"":191,""input_cost"":2.8e-06,""output_cost"":8.15e-05,""total_cost"":8.43e-05}",8.43e-05,3.4228783000726253
+"If x + y = 10 and xy = 21, find x² + y².",no,58,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.426464700140059,"\[
+x^2+y^2=(x+y)^2-2xy=10^2-2(21)=\boxed{58}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":26,""output_tokens"":67,""total_tokens"":93,""input_cost"":2.5999999999999997e-06,""output_cost"":3.35e-05,""total_cost"":3.61e-05}",3.61e-05,1.426464700140059
+The roots of 2x² - 7x + 3 = 0 are α and β. Find 1/α + 1/β.,no,7/3,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.1662614999804646,"By Vieta’s formulas, \(\alpha+\beta=\frac72\) and \(\alpha\beta=\frac32\). Thus
+\[
+\frac1\alpha+\frac1\beta
+=\frac{\alpha+\beta}{\alpha\beta}
+=\frac{7/2}{3/2}
+=\boxed{\frac73}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":39,""output_tokens"":131,""total_tokens"":170,""input_cost"":3.9e-06,""output_cost"":6.549999999999999e-05,""total_cost"":6.939999999999999e-05}",6.939999999999999e-05,2.1662614999804646
+"Find the sum of the first 20 terms of the AP 7, 11, 15, 19, ...",no,900,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.7070257000159472,"For the AP, \(a=7\), \(d=4\), and \(n=20\).
+
+\[
+S_{20}=\frac{20}{2}\left(2(7)+19(4)\right)
+=10(14+76)
+=\boxed{900}
+\]","{""model"":""gpt-6-luna"",""input_tokens"":31,""output_tokens"":127,""total_tokens"":158,""input_cost"":3.1e-06,""output_cost"":6.35e-05,""total_cost"":6.659999999999999e-05}",6.659999999999999e-05,2.7070257000159472
+A GP has first term 81 and common ratio 1/3. Find its 5th term.,no,1,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.153918799944222,The 5th term is \(81\left(\frac13\right)^4 = \boxed{1}\).,"{""model"":""gpt-6-luna"",""input_tokens"":28,""output_tokens"":58,""total_tokens"":86,""input_cost"":2.8e-06,""output_cost"":2.9e-05,""total_cost"":3.18e-05}",3.18e-05,2.153918799944222
+A 20% discount is followed by a 10% discount. Find the overall percentage discount.,no,28,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,6.430443100165576,"The discounts are applied successively: \(0.80 \times 0.90 = 0.72\). The final price is 72% of the original, so the overall discount is **28%**.","{""model"":""gpt-6-luna"",""input_tokens"":26,""output_tokens"":77,""total_tokens"":103,""input_cost"":2.5999999999999997e-06,""output_cost"":3.85e-05,""total_cost"":4.11e-05}",4.11e-05,6.430443100165576
+A car covers the first half of a journey at 40 km/h and the second half at 60 km/h. Find its average speed.,no,48,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.6562619998585433,"For equal distances, average speed is total distance divided by total time. Let each half be \(d\) km:
+
+\[
+\text{Average speed}=\frac{2d}{d/40+d/60}=48\text{ km/h}.
+\]
+
+So the average speed is **48 km/h**.","{""model"":""gpt-6-luna"",""input_tokens"":35,""output_tokens"":95,""total_tokens"":130,""input_cost"":3.5e-06,""output_cost"":4.7499999999999996e-05,""total_cost"":5.099999999999999e-05}",5.099999999999999e-05,1.6562619998585433
+Find the area of the triangle formed by the coordinate axes and the line 3x + 4y = 12.,no,6,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.099576100008562,"The line \(3x+4y=12\) crosses the axes at \((4,0)\) and \((0,3)\). The triangle’s area is
+\[
+\frac12(4)(3)=\boxed{6}
+\]
+square units.","{""model"":""gpt-6-luna"",""input_tokens"":31,""output_tokens"":100,""total_tokens"":131,""input_cost"":3.1e-06,""output_cost"":4.9999999999999996e-05,""total_cost"":5.3099999999999996e-05}",5.3099999999999996e-05,2.099576100008562
+Find the radius of the circle x² + y² + 4x - 6y - 12 = 0.,no,5,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,4.294397099874914,"Complete the square:
+\[
+x^2+4x+y^2-6y=12
+\quad\Longrightarrow\quad
+(x+2)^2+(y-3)^2=25.
+\]
+Thus the circle’s radius is \(\boxed{5}\).","{""model"":""gpt-6-luna"",""input_tokens"":32,""output_tokens"":118,""total_tokens"":150,""input_cost"":3.2e-06,""output_cost"":5.9e-05,""total_cost"":6.22e-05}",6.22e-05,4.294397099874914
+"If tan θ = 3/4 and θ is acute, find sin θ + cos θ.",no,7/5,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.4527384000830352,"Since \(\tan\theta=\frac{3}{4}\), take the opposite and adjacent sides of a right triangle to be \(3\) and \(4\). The hypotenuse is \(5\), so
+\[
+\sin\theta+\cos\theta=\frac{3}{5}+\frac{4}{5}=\boxed{\frac{7}{5}}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":26,""output_tokens"":127,""total_tokens"":153,""input_cost"":2.5999999999999997e-06,""output_cost"":6.35e-05,""total_cost"":6.61e-05}",6.61e-05,2.4527384000830352
+A fair die is rolled three times. Find the probability of getting exactly two sixes as a decimal.,no,0.06944,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,4.981843699933961,"The probability is
+\[
+\binom{3}{2}\left(\frac16\right)^2\left(\frac56\right)=\frac{5}{72}\approx \boxed{0.06944}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":27,""output_tokens"":110,""total_tokens"":137,""input_cost"":2.7e-06,""output_cost"":5.4999999999999995e-05,""total_cost"":5.769999999999999e-05}",5.769999999999999e-05,4.981843699933961
+Find the value of ∫₀¹ (3x² + 2x) dx.,no,2,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.3712307999376208,"\[
+\int_0^1 (3x^2+2x)\,dx
+=\left[x^3+x^2\right]_0^1
+=(1+1)-0
+=\boxed{2}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":26,""output_tokens"":85,""total_tokens"":111,""input_cost"":2.5999999999999997e-06,""output_cost"":4.2499999999999996e-05,""total_cost"":4.51e-05}",4.51e-05,2.3712307999376208
+"For y = x³ - 3x² + 2, find the x-coordinate where the derivative is zero and x > 0.",no,2,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7103768000379205,"\(y' = 3x^2 - 6x = 3x(x-2)\). Setting \(y'=0\) gives \(x=0\) or \(x=2\). Since \(x>0\), the answer is **\(x=2\)**.","{""model"":""gpt-6-luna"",""input_tokens"":35,""output_tokens"":104,""total_tokens"":139,""input_cost"":3.5e-06,""output_cost"":5.2e-05,""total_cost"":5.5499999999999994e-05}",5.5499999999999994e-05,1.7103768000379205
+A cone has radius 3 cm and height 4 cm. Find its slant height.,no,5,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.919996300013736,The slant height is \( \sqrt{3^2+4^2} = \sqrt{25} = \boxed{5\text{ cm}} \).,"{""model"":""gpt-6-luna"",""input_tokens"":25,""output_tokens"":68,""total_tokens"":93,""input_cost"":2.4999999999999998e-06,""output_cost"":3.4e-05,""total_cost"":3.65e-05}",3.65e-05,1.919996300013736
+"If 3^x = 81, find x + 2.",no,6,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.4893423998728395,"Since \(81 = 3^4\), \(x=4\). Therefore, \(x+2=\boxed{6}\).","{""model"":""gpt-6-luna"",""input_tokens"":21,""output_tokens"":60,""total_tokens"":81,""input_cost"":2.1e-06,""output_cost"":2.9999999999999997e-05,""total_cost"":3.2099999999999994e-05}",3.2099999999999994e-05,1.4893423998728395
+Find the number of diagonals in a polygon with 10 sides.,no,35,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.1291795999277383,"The number of diagonals in an \(n\)-sided polygon is \(\frac{n(n-3)}{2}\). For \(n=10\):
+
+\[
+\frac{10(10-3)}{2} = 35
+\]
+
+So a 10-sided polygon has **35 diagonals**.","{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":110,""total_tokens"":130,""input_cost"":2e-06,""output_cost"":5.4999999999999995e-05,""total_cost"":5.6999999999999996e-05}",5.6999999999999996e-05,2.1291795999277383
+"If x - 1/x = 2, find x² + 1/x².",no,6,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.9009237000718713,"Squaring both sides,
+\[
+\left(x-\frac1x\right)^2=x^2-2+\frac1{x^2}=4.
+\]
+Therefore,
+\[
+\boxed{x^2+\frac1{x^2}=6}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":25,""output_tokens"":103,""total_tokens"":128,""input_cost"":2.4999999999999998e-06,""output_cost"":5.15e-05,""total_cost"":5.4e-05}",5.4e-05,2.9009237000718713
+"If α and β are roots of x² - 5x + 3 = 0, find α² + β².",no,19,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.1076730999629945,"By Vieta’s formulas, \(\alpha+\beta=5\) and \(\alpha\beta=3\). Thus
+\[
+\alpha^2+\beta^2=(\alpha+\beta)^2-2\alpha\beta=5^2-2(3)=\boxed{19}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":33,""output_tokens"":102,""total_tokens"":135,""input_cost"":3.2999999999999997e-06,""output_cost"":5.1e-05,""total_cost"":5.43e-05}",5.43e-05,2.1076730999629945
+Find the number of solutions of sin x = 1/2 for 0 ≤ x ≤ 2π.,no,2,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.9412759998813272,"The solutions are \(x=\frac{\pi}{6}\) and \(x=\frac{5\pi}{6}\), so there are \(\boxed{2}\) solutions.","{""model"":""gpt-6-luna"",""input_tokens"":29,""output_tokens"":83,""total_tokens"":112,""input_cost"":2.8999999999999998e-06,""output_cost"":4.15e-05,""total_cost"":4.44e-05}",4.44e-05,1.9412759998813272
+"If a + b = 7 and ab = 10, find a³ + b³.",no,133,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.165064600063488,"Using \(a^3+b^3=(a+b)^3-3ab(a+b)\),
+
+\[
+a^3+b^3=7^3-3(10)(7)=343-210=\boxed{133}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":26,""output_tokens"":90,""total_tokens"":116,""input_cost"":2.5999999999999997e-06,""output_cost"":4.4999999999999996e-05,""total_cost"":4.76e-05}",4.76e-05,2.165064600063488
+Find the coefficient of x³ in (1 + x)^7.,no,35,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8393280999734998,"By the binomial theorem, the coefficient of \(x^3\) is \(\binom{7}{3} = 35\).","{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":61,""total_tokens"":81,""input_cost"":2e-06,""output_cost"":3.05e-05,""total_cost"":3.25e-05}",3.25e-05,1.8393280999734998
+How many distinct arrangements can be made using all the letters of the word 'LEVEL'?,no,30,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.094712099991739,"“LEVEL” has 5 letters, with L repeated twice and E repeated twice. The number of distinct arrangements is
+
+\[
+\frac{5!}{2!\,2!}=30.
+\]
+
+**Answer: 30**","{""model"":""gpt-6-luna"",""input_tokens"":23,""output_tokens"":84,""total_tokens"":107,""input_cost"":2.3e-06,""output_cost"":4.2e-05,""total_cost"":4.43e-05}",4.43e-05,3.094712099991739
+"A bag contains 4 red, 3 blue, and 2 green balls. Three balls are selected without replacement. Find the number of ways to select exactly one ball of each color.",no,24,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.424842899898067,"Choose 1 of the 4 red, 1 of the 3 blue, and 1 of the 2 green balls:
+
+\[
+4 \times 3 \times 2 = \boxed{24}
+\]
+
+There are 24 ways.","{""model"":""gpt-6-luna"",""input_tokens"":44,""output_tokens"":93,""total_tokens"":137,""input_cost"":4.4e-06,""output_cost"":4.65e-05,""total_cost"":5.09e-05}",5.09e-05,3.424842899898067
+Find the minimum value of x² + 16/x² for x ≠ 0.,no,8,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.6331062000244856,"By AM–GM,
+\[
+x^2+\frac{16}{x^2}\ge 2\sqrt{x^2\cdot\frac{16}{x^2}}=8.
+\]
+Equality holds when \(x^2=4\), i.e. \(x=\pm2\). The minimum value is \(\boxed{8}\).","{""model"":""gpt-6-luna"",""input_tokens"":25,""output_tokens"":132,""total_tokens"":157,""input_cost"":2.4999999999999998e-06,""output_cost"":6.599999999999999e-05,""total_cost"":6.849999999999998e-05}",6.849999999999998e-05,2.6331062000244856
+"If x + y = 5 and x² + y² = 13, find xy.",no,6,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7501126998104155,"Using \((x+y)^2=x^2+y^2+2xy\), we get
+\[
+25=13+2xy,
+\]
+so \(\boxed{xy=6}\).","{""model"":""gpt-6-luna"",""input_tokens"":26,""output_tokens"":72,""total_tokens"":98,""input_cost"":2.5999999999999997e-06,""output_cost"":3.6e-05,""total_cost"":3.86e-05}",3.86e-05,1.7501126998104155
+Find the area enclosed between y = 4 - x² and the x-axis.,no,32/3,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.8561456999741495,"The curve meets the x-axis where \(4-x^2=0\), so \(x=-2\) and \(x=2\). The enclosed area is
+\[
+\int_{-2}^{2}(4-x^2)\,dx
+=\left[4x-\frac{x^3}{3}\right]_{-2}^{2}
+=\boxed{\frac{32}{3}}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":23,""output_tokens"":164,""total_tokens"":187,""input_cost"":2.3e-06,""output_cost"":8.2e-05,""total_cost"":8.43e-05}",8.43e-05,3.8561456999741495
+"A circle touches both coordinate axes and passes through (4, 2). Find the radius of the circle in the first quadrant.",no,3,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,4.4336323998868465,"If the circle is tangent to both axes in the first quadrant, its center is \((r,r)\). Since it passes through \((4,2)\),
+\[
+(4-r)^2+(2-r)^2=r^2,
+\]
+which simplifies to
+\[
+(r-2)(r-10)=0.
+\]
+So there are **two possible radii: \(2\) and \(10\)**.","{""model"":""gpt-6-luna"",""input_tokens"":32,""output_tokens"":414,""total_tokens"":446,""input_cost"":3.2e-06,""output_cost"":0.000207,""total_cost"":0.0002102}",0.0002102,4.4336323998868465
+"If 2sin²x - 3sin x + 1 = 0, find the number of solutions for x in [0, 2π].",no,4,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.402556400047615,"Factor the equation:
+\[
+2\sin^2 x-3\sin x+1=(2\sin x-1)(\sin x-1)=0.
+\]
+Thus \(\sin x=\tfrac12\) or \(\sin x=1\). On \([0,2\pi]\), these occur at
+\[
+x=\frac{\pi}{6},\quad \frac{5\pi}{6},\quad \frac{\pi}{2}.
+\]
+So there are \(\boxed{3}\) solutions.","{""model"":""gpt-6-luna"",""input_tokens"":39,""output_tokens"":190,""total_tokens"":229,""input_cost"":3.9e-06,""output_cost"":9.499999999999999e-05,""total_cost"":9.889999999999999e-05}",9.889999999999999e-05,2.402556400047615
+Find the sum of all positive divisors of 36.,no,91,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.866950600175187,"The positive divisors of 36 are \(1,2,3,4,6,9,12,18,36\). Their sum is \(\boxed{91}\).","{""model"":""gpt-6-luna"",""input_tokens"":18,""output_tokens"":110,""total_tokens"":128,""input_cost"":1.8e-06,""output_cost"":5.4999999999999995e-05,""total_cost"":5.68e-05}",5.68e-05,1.866950600175187
+"A line passes through (2, 3) and cuts positive coordinate axes at A and B. If the area of triangle OAB is 12, find the possible x-intercept when it is smaller than the y-intercept.",no,4,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.3776420999784023,"Let the positive x- and y-intercepts be \(a\) and \(b\). The triangle’s area gives
+\[
+\frac{ab}{2}=12 \quad\Rightarrow\quad ab=24.
+\]
+Since the line passes through \((2,3)\), its intercept form gives
+\[
+\frac{2}{a}+\frac{3}{b}=1.
+\]
+Substitute \(b=24/a\):
+\[
+\frac{2}{a}+\frac{a}{8}=1
+\quad\Rightarrow\quad
+(a-4)^2=0.
+\]
+Thus the x-intercept is \(\boxed{4}\), and the y-intercept is \(6\), so the x-intercept is indeed smaller.","{""model"":""gpt-6-luna"",""input_tokens"":53,""output_tokens"":303,""total_tokens"":356,""input_cost"":5.3e-06,""output_cost"":0.0001515,""total_cost"":0.0001568}",0.0001568,3.3776420999784023
+Find the value of lim(x→0) [sin(3x)/x].,no,3,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.24376119999215,"\[
+\lim_{x\to 0}\frac{\sin(3x)}{x}
+=3\lim_{x\to 0}\frac{\sin(3x)}{3x}
+=3.
+\]
+
+So the value is \(\boxed{3}\).","{""model"":""gpt-6-luna"",""input_tokens"":23,""output_tokens"":100,""total_tokens"":123,""input_cost"":2.3e-06,""output_cost"":4.9999999999999996e-05,""total_cost"":5.23e-05}",5.23e-05,2.24376119999215
+What is the capital city of Japan?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.2924981999676675,Tokyo.,"{""model"":""gpt-6-luna"",""input_tokens"":14,""output_tokens"":19,""total_tokens"":33,""input_cost"":1.4e-06,""output_cost"":9.499999999999999e-06,""total_cost"":1.0899999999999999e-05}",1.0899999999999999e-05,1.2924981999676675
+Who wrote the novel Pride and Prejudice?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.1621546000242233,Jane Austen wrote *Pride and Prejudice*.,"{""model"":""gpt-6-luna"",""input_tokens"":15,""output_tokens"":14,""total_tokens"":29,""input_cost"":1.5e-06,""output_cost"":7e-06,""total_cost"":8.5e-06}",8.5e-06,2.1621546000242233
+What is the chemical symbol for gold?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.2924893000163138,The chemical symbol for gold is **Au**.,"{""model"":""gpt-6-luna"",""input_tokens"":14,""output_tokens"":14,""total_tokens"":28,""input_cost"":1.4e-06,""output_cost"":7e-06,""total_cost"":8.4e-06}",8.4e-06,1.2924893000163138
+Which planet is known as the Red Planet?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.0181412999518216,Mars.,"{""model"":""gpt-6-luna"",""input_tokens"":15,""output_tokens"":6,""total_tokens"":21,""input_cost"":1.5e-06,""output_cost"":3e-06,""total_cost"":4.5e-06}",4.5e-06,1.0181412999518216
+What is the largest ocean on Earth?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.583228100091219,The Pacific Ocean is the largest ocean on Earth.,"{""model"":""gpt-6-luna"",""input_tokens"":14,""output_tokens"":14,""total_tokens"":28,""input_cost"":1.4e-06,""output_cost"":7e-06,""total_cost"":8.4e-06}",8.4e-06,1.583228100091219
+Who painted the Mona Lisa?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.1596363000571728,The Mona Lisa was painted by Leonardo da Vinci.,"{""model"":""gpt-6-luna"",""input_tokens"":12,""output_tokens"":14,""total_tokens"":26,""input_cost"":1.2e-06,""output_cost"":7e-06,""total_cost"":8.2e-06}",8.2e-06,1.1596363000571728
+What is the process by which plants convert light energy into chemical energy?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.9549281999934465,"Plants convert light energy into chemical energy through **photosynthesis**. In chloroplasts, chlorophyll captures sunlight and uses it to turn carbon dioxide and water into sugars such as glucose, releasing oxygen.
+
+**Carbon dioxide + water + light → glucose + oxygen**","{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":95,""total_tokens"":115,""input_cost"":2e-06,""output_cost"":4.7499999999999996e-05,""total_cost"":4.95e-05}",4.95e-05,1.9549281999934465
+Which gas makes up most of Earth's atmosphere?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.565953299868852,"Nitrogen makes up most of Earth’s atmosphere, at about 78%.","{""model"":""gpt-6-luna"",""input_tokens"":15,""output_tokens"":35,""total_tokens"":50,""input_cost"":1.5e-06,""output_cost"":1.75e-05,""total_cost"":1.8999999999999998e-05}",1.8999999999999998e-05,1.565953299868852
+What is the SI unit of electric current?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.4645178001374006,The SI unit of electric current is the **ampere (A)**.,"{""model"":""gpt-6-luna"",""input_tokens"":15,""output_tokens"":19,""total_tokens"":34,""input_cost"":1.5e-06,""output_cost"":9.499999999999999e-06,""total_cost"":1.1e-05}",1.1e-05,2.4645178001374006
+Who was the first person to walk on the Moon?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.996472400147468,"Neil Armstrong was the first person to walk on the Moon, on July 20, 1969.","{""model"":""gpt-6-luna"",""input_tokens"":17,""output_tokens"":45,""total_tokens"":62,""input_cost"":1.6999999999999998e-06,""output_cost"":2.2499999999999998e-05,""total_cost"":2.42e-05}",2.42e-05,2.996472400147468
+Which organ pumps blood through the human body?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.4569814000278711,The heart pumps blood through the human body.,"{""model"":""gpt-6-luna"",""input_tokens"":15,""output_tokens"":24,""total_tokens"":39,""input_cost"":1.5e-06,""output_cost"":1.2e-05,""total_cost"":1.35e-05}",1.35e-05,1.4569814000278711
+What is the hardest natural substance?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.6115623998921365,"**Diamond** is generally considered the hardest naturally occurring substance, especially in resistance to scratching. Its hardness varies with crystal direction, and “hardest” can depend on how it’s measured; some rare materials have been proposed to rival or exceed it in particular tests. Mohs hardness is a scratch ranking, not a measure of toughness.","{""model"":""gpt-6-luna"",""input_tokens"":13,""output_tokens"":250,""total_tokens"":263,""input_cost"":1.2999999999999998e-06,""output_cost"":0.000125,""total_cost"":0.0001263}",0.0001263,3.6115623998921365
+Which country is home to the ancient city of Machu Picchu?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.2707563999574631,Machu Picchu is in Peru.,"{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":27,""total_tokens"":47,""input_cost"":2e-06,""output_cost"":1.35e-05,""total_cost"":1.55e-05}",1.55e-05,1.2707563999574631
+What is the main language spoken in Brazil?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.0727035999298096,Portuguese.,"{""model"":""gpt-6-luna"",""input_tokens"":15,""output_tokens"":7,""total_tokens"":22,""input_cost"":1.5e-06,""output_cost"":3.5e-06,""total_cost"":4.9999999999999996e-06}",4.9999999999999996e-06,1.0727035999298096
+Which instrument is used to measure atmospheric pressure?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.4903264997992665,A barometer is used to measure atmospheric pressure.,"{""model"":""gpt-6-luna"",""input_tokens"":15,""output_tokens"":34,""total_tokens"":49,""input_cost"":1.5e-06,""output_cost"":1.7e-05,""total_cost"":1.85e-05}",1.85e-05,1.4903264997992665
+What is the boiling point of water at standard atmospheric pressure in Celsius?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.6263975999318063,Water boils at **100 °C** at standard atmospheric pressure (1 atm).,"{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":20,""total_tokens"":40,""input_cost"":2e-06,""output_cost"":9.999999999999999e-06,""total_cost"":1.1999999999999999e-05}",1.1999999999999999e-05,1.6263975999318063
+Who developed the theory of general relativity?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.300398400053382,Albert Einstein developed the theory of general relativity. It was published in 1915.,"{""model"":""gpt-6-luna"",""input_tokens"":15,""output_tokens"":22,""total_tokens"":37,""input_cost"":1.5e-06,""output_cost"":1.1e-05,""total_cost"":1.2499999999999999e-05}",1.2499999999999999e-05,1.300398400053382
+Which mammal is capable of true sustained flight?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8395773998927325,"Bats are the only mammals capable of true sustained, powered flight. Other “flying” mammals, such as flying squirrels, glide.","{""model"":""gpt-6-luna"",""input_tokens"":16,""output_tokens"":63,""total_tokens"":79,""input_cost"":1.6e-06,""output_cost"":3.15e-05,""total_cost"":3.31e-05}",3.31e-05,1.8395773998927325
+What is the largest internal organ in the human body?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8873390001244843,The liver is the largest internal organ in the human body.,"{""model"":""gpt-6-luna"",""input_tokens"":17,""output_tokens"":42,""total_tokens"":59,""input_cost"":1.6999999999999998e-06,""output_cost"":2.1e-05,""total_cost"":2.27e-05}",2.27e-05,1.8873390001244843
+Which layer of Earth's atmosphere contains most of the ozone?,yes,,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.6954189999960363,"Most of Earth’s ozone is in the **stratosphere**, where it forms the ozone layer.","{""model"":""gpt-6-luna"",""input_tokens"":17,""output_tokens"":53,""total_tokens"":70,""input_cost"":1.6999999999999998e-06,""output_cost"":2.65e-05,""total_cost"":2.82e-05}",2.82e-05,1.6954189999960363
+"A number is increased by 25% and then decreased by 20%. Compared with the original number, what is the final percentage change?",no,0,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8633199001196772,The changes cancel out: \(1.25 \times 0.80 = 1\). The final percentage change is **0%**.,"{""model"":""gpt-6-luna"",""input_tokens"":34,""output_tokens"":66,""total_tokens"":100,""input_cost"":3.3999999999999996e-06,""output_cost"":3.2999999999999996e-05,""total_cost"":3.64e-05}",3.64e-05,1.8633199001196772
+Three consecutive positive integers have product 990. What is the middle integer?,no,10,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.5358466999605298,"The three integers are 9, 10, and 11, since \(9 \times 10 \times 11 = 990\). The middle integer is **10**.","{""model"":""gpt-6-luna"",""input_tokens"":21,""output_tokens"":75,""total_tokens"":96,""input_cost"":2.1e-06,""output_cost"":3.75e-05,""total_cost"":3.9599999999999994e-05}",3.9599999999999994e-05,1.5358466999605298
+"If x + y = 8 and x² + y² = 34, what is xy?",no,15,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8425853999797255,"\[
+(x+y)^2=x^2+y^2+2xy
+\]
+So \(64=34+2xy\), giving \(\boxed{xy=15}\).","{""model"":""gpt-6-luna"",""input_tokens"":27,""output_tokens"":81,""total_tokens"":108,""input_cost"":2.7e-06,""output_cost"":4.0499999999999995e-05,""total_cost"":4.319999999999999e-05}",4.319999999999999e-05,1.8425853999797255
+"A clock gains 5 minutes every hour. If it is set correctly at noon, what time will it show at 6 PM?",no,6.5,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.79277820000425,"It will show **6:30 PM**. It gains 5 minutes each real hour, so over 6 hours it gains 30 minutes.","{""model"":""gpt-6-luna"",""input_tokens"":33,""output_tokens"":94,""total_tokens"":127,""input_cost"":3.2999999999999997e-06,""output_cost"":4.7e-05,""total_cost"":5.0299999999999996e-05}",5.0299999999999996e-05,2.79277820000425
+A farmer has chickens and goats. There are 35 animals and 94 legs. How many goats are there?,no,12,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.7217935000080615,"Let \(g\) be the number of goats. Then there are \(35-g\) chickens.
+
+\[
+4g + 2(35-g) = 94
+\]
+
+Solving gives \(g=12\), so there are **12 goats**.","{""model"":""gpt-6-luna"",""input_tokens"":29,""output_tokens"":99,""total_tokens"":128,""input_cost"":2.8999999999999998e-06,""output_cost"":4.95e-05,""total_cost"":5.24e-05}",5.24e-05,2.7217935000080615
+Find the smallest positive integer that is divisible by 8 and leaves remainder 2 when divided by 5.,no,32,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.3981836999300867,"The multiples of 8 are \(8,16,24,32,\ldots\). The first that leaves remainder 2 when divided by 5 is **32**.","{""model"":""gpt-6-luna"",""input_tokens"":28,""output_tokens"":105,""total_tokens"":133,""input_cost"":2.8e-06,""output_cost"":5.2499999999999995e-05,""total_cost"":5.5299999999999996e-05}",5.5299999999999996e-05,2.3981836999300867
+"A two-digit number is 4 times the sum of its digits. If reversing its digits increases it by 18, what is the number?",no,24,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.314350500004366,"Let the tens digit be \(a\) and the ones digit be \(b\).
+
+The number is \(10a+b\), and
+\[
+10a+b=4(a+b)\quad\Rightarrow\quad b=2a.
+\]
+Reversing the digits increases the number by 18, so
+\[
+(10b+a)-(10a+b)=18\quad\Rightarrow\quad b-a=2.
+\]
+Together, these give \(a=2\) and \(b=4\). The number is **24**.","{""model"":""gpt-6-luna"",""input_tokens"":35,""output_tokens"":214,""total_tokens"":249,""input_cost"":3.5e-06,""output_cost"":0.000107,""total_cost"":0.0001105}",0.0001105,3.314350500004366
+"If f(x) = x/(x+1), find f(f(1)).",no,1/3,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.366601100191474,"\(f(1)=\frac{1}{2}\), so
+\[
+f(f(1))=f\left(\frac12\right)=\frac{\frac12}{\frac12+1}=\frac13.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":23,""output_tokens"":97,""total_tokens"":120,""input_cost"":2.3e-06,""output_cost"":4.85e-05,""total_cost"":5.08e-05}",5.08e-05,3.366601100191474
+"A square and a circle have the same perimeter. If the square has side 11, what is the circle's radius? Give the answer in terms of π.",no,22/π,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7997957998886704,"The square’s perimeter is \(4 \times 11 = 44\). Setting this equal to the circle’s circumference, \(2\pi r = 44\), gives
+
+\[
+\boxed{r=\frac{22}{\pi}}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":39,""output_tokens"":114,""total_tokens"":153,""input_cost"":3.9e-06,""output_cost"":5.6999999999999996e-05,""total_cost"":6.0899999999999996e-05}",6.0899999999999996e-05,1.7997957998886704
+A box contains 3 red and 2 blue balls. Two balls are drawn without replacement. What is the probability that they have different colors?,no,3/5,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.9435757000464946,"There are \(\binom{5}{2}=10\) possible pairs. A different-color pair can be chosen in \(3 \times 2=6\) ways, so the probability is
+
+\[
+\frac{6}{10}=\boxed{\frac{3}{5}}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":35,""output_tokens"":129,""total_tokens"":164,""input_cost"":3.5e-06,""output_cost"":6.45e-05,""total_cost"":6.8e-05}",6.8e-05,1.9435757000464946
+"If sin θ = 3/5 and θ is acute, find cos 2θ.",no,7/25,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.7678092001006007,"Since \(\sin\theta=\frac35\), use \(\cos 2\theta=1-2\sin^2\theta\):
+
+\[
+\cos 2\theta=1-2\left(\frac35\right)^2
+=1-\frac{18}{25}
+=\boxed{\frac7{25}}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":25,""output_tokens"":135,""total_tokens"":160,""input_cost"":2.4999999999999998e-06,""output_cost"":6.75e-05,""total_cost"":7e-05}",7e-05,2.7678092001006007
+A sequence is defined by a₁ = 1 and aₙ₊₁ = 2aₙ + 3. Find a₅.,no,57,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.4910693999845535,"Starting with \(a_1=1\), apply \(a_{n+1}=2a_n+3\):
+
+\[
+a_2=5,\quad a_3=13,\quad a_4=29,\quad \boxed{a_5=61}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":40,""output_tokens"":109,""total_tokens"":149,""input_cost"":4e-06,""output_cost"":5.4499999999999997e-05,""total_cost"":5.85e-05}",5.85e-05,2.4910693999845535
+Find the positive value of x satisfying √(x+9) = x.,no,3,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.9722917000763118,"Squaring both sides gives \(x+9=x^2\), so
+\[
+x=\frac{1\pm\sqrt{37}}{2}.
+\]
+Since \(x\) must be positive, the answer is \(\boxed{\frac{1+\sqrt{37}}{2}}\).","{""model"":""gpt-6-luna"",""input_tokens"":22,""output_tokens"":125,""total_tokens"":147,""input_cost"":2.2e-06,""output_cost"":6.25e-05,""total_cost"":6.47e-05}",6.47e-05,1.9722917000763118
+A rectangle has area 96 and integer side lengths. How many distinct unordered pairs of positive integer side lengths are possible?,no,5,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.897746300091967,"Since \(96=2^5\cdot 3\), it has 12 positive divisors, giving \(12/2=6\) unordered factor pairs.
+
+They are \((1,96), (2,48), (3,32), (4,24), (6,16)\), and \((8,12)\). So **6** pairs are possible.","{""model"":""gpt-6-luna"",""input_tokens"":30,""output_tokens"":158,""total_tokens"":188,""input_cost"":3e-06,""output_cost"":7.9e-05,""total_cost"":8.2e-05}",8.2e-05,2.897746300091967
+"If x + 1/x = 5, find x² + 1/x².",no,23,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.604507999960333,"Squaring \(x+\frac1x=5\) gives
+\[
+x^2+2+\frac1{x^2}=25,
+\]
+so \(\boxed{x^2+\frac1{x^2}=23}\).","{""model"":""gpt-6-luna"",""input_tokens"":25,""output_tokens"":89,""total_tokens"":114,""input_cost"":2.4999999999999998e-06,""output_cost"":4.45e-05,""total_cost"":4.7e-05}",4.7e-05,1.604507999960333
+Find the remainder when 7^100 is divided by 6.,no,1,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8340189999435097,"Since \(7 \equiv 1 \pmod 6\), we have \(7^{100} \equiv 1^{100} \equiv 1 \pmod 6\). The remainder is **1**.","{""model"":""gpt-6-luna"",""input_tokens"":20,""output_tokens"":79,""total_tokens"":99,""input_cost"":2e-06,""output_cost"":3.95e-05,""total_cost"":4.15e-05}",4.15e-05,1.8340189999435097
+A test has 10 questions. Each correct answer gives 3 points and each incorrect answer loses 1 point. A student answers all questions and scores 18. How many were correct?,no,7,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8906515000853688,"Let \(c\) be the number of correct answers. Then \(10-c\) were incorrect, so
+\[
+3c-(10-c)=18.
+\]
+Thus \(4c=28\), giving **7 correct answers**.","{""model"":""gpt-6-luna"",""input_tokens"":44,""output_tokens"":94,""total_tokens"":138,""input_cost"":4.4e-06,""output_cost"":4.7e-05,""total_cost"":5.1399999999999996e-05}",5.1399999999999996e-05,1.8906515000853688
+"Two pipes can fill a tank in 6 hours and 8 hours respectively. If both are opened together, how many hours do they take to fill the tank?",no,24/7,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.362304100068286,"Together, the pipes fill \(\frac{1}{6}+\frac{1}{8}=\frac{7}{24}\) of the tank per hour. So they take \(\frac{24}{7}\) hours, or **\(3\frac{3}{7}\) hours** (about **3 hours 26 minutes**).","{""model"":""gpt-6-luna"",""input_tokens"":39,""output_tokens"":128,""total_tokens"":167,""input_cost"":3.9e-06,""output_cost"":6.4e-05,""total_cost"":6.79e-05}",6.79e-05,3.362304100068286
+"The average of five numbers is 18. If one number is removed, the average of the remaining four is 16. What number was removed?",no,26,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.715053200023249,The five numbers total \(5 \times 18 = 90\). The four remaining numbers total \(4 \times 16 = 64\). So the number removed was \(90 - 64 = \boxed{26}\).,"{""model"":""gpt-6-luna"",""input_tokens"":36,""output_tokens"":76,""total_tokens"":112,""input_cost"":3.6e-06,""output_cost"":3.7999999999999995e-05,""total_cost"":4.1599999999999995e-05}",4.1599999999999995e-05,2.715053200023249
+A triangle has angles in the ratio 2:3:4. What is the largest angle in degrees?,no,80,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.6012375000864267,"The angle parts total \(2+3+4=9\). Each part is \(180^\circ \div 9=20^\circ\), so the largest angle is \(4 \times 20^\circ=\boxed{80^\circ}\).","{""model"":""gpt-6-luna"",""input_tokens"":28,""output_tokens"":88,""total_tokens"":116,""input_cost"":2.8e-06,""output_cost"":4.4e-05,""total_cost"":4.68e-05}",4.68e-05,2.6012375000864267
+Find the number of positive integer solutions to x + y = 10 with x > y.,no,4,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.9897880000062287,"Since \(x>y\) and \(x+y=10\), \(x\) must be greater than 5. The positive integer solutions are \((6,4), (7,3), (8,2), (9,1)\), so there are \(\boxed{4}\).","{""model"":""gpt-6-luna"",""input_tokens"":25,""output_tokens"":125,""total_tokens"":150,""input_cost"":2.4999999999999998e-06,""output_cost"":6.25e-05,""total_cost"":6.500000000000001e-05}",6.500000000000001e-05,1.9897880000062287
+A train 180 m long crosses a pole in 9 seconds. What is its speed in km/h?,no,72,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8451172998175025,Speed = \(180 \div 9 = 20\) m/s. Converting to km/h: \(20 \times 3.6 = \boxed{72\text{ km/h}}\).,"{""model"":""gpt-6-luna"",""input_tokens"":28,""output_tokens"":77,""total_tokens"":105,""input_cost"":2.8e-06,""output_cost"":3.85e-05,""total_cost"":4.13e-05}",4.13e-05,1.8451172998175025
+"If the roots of x² - 6x + k = 0 are equal, find k.",no,9,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7586264999117702,"For equal roots, the discriminant must be zero:
+
+\[
+(-6)^2 - 4(1)(k)=0
+\quad\Rightarrow\quad 36-4k=0
+\quad\Rightarrow\quad \boxed{k=9}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":27,""output_tokens"":90,""total_tokens"":117,""input_cost"":2.7e-06,""output_cost"":4.4999999999999996e-05,""total_cost"":4.7699999999999994e-05}",4.7699999999999994e-05,1.7586264999117702
+A circle has radius 13 and a chord is at distance 5 from the center. Find the chord length.,no,24,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.7908600999508053,"The perpendicular from the center bisects the chord, forming a right triangle with hypotenuse 13 and one leg 5. The half-chord is \(\sqrt{13^2-5^2}=12\), so the chord length is \(\boxed{24}\).","{""model"":""gpt-6-luna"",""input_tokens"":29,""output_tokens"":92,""total_tokens"":121,""input_cost"":2.8999999999999998e-06,""output_cost"":4.6e-05,""total_cost"":4.89e-05}",4.89e-05,2.7908600999508053
+Find the smallest possible value of x + 16/x for x > 0.,no,8,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.8924011997878551,"By AM–GM,
+\[
+x+\frac{16}{x}\ge 2\sqrt{x\cdot\frac{16}{x}}=8.
+\]
+Equality holds when \(x=4\), so the smallest possible value is \(\boxed{8}\).","{""model"":""gpt-6-luna"",""input_tokens"":23,""output_tokens"":101,""total_tokens"":124,""input_cost"":2.3e-06,""output_cost"":5.05e-05,""total_cost"":5.28e-05}",5.28e-05,1.8924011997878551
+"If log₂x + log₂(x-2) = 3, find x.",no,4,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,3.533421400003135,"Since \(x>2\), combine the logarithms:
+\[
+\log_2\bigl(x(x-2)\bigr)=3
+\]
+So \(x(x-2)=2^3=8\), giving
+\[
+x^2-2x-8=0 \quad\Rightarrow\quad (x-4)(x+2)=0.
+\]
+The solutions are \(4\) and \(-2\), but only \(4\) satisfies \(x>2\). Thus, \(\boxed{x=4}\).","{""model"":""gpt-6-luna"",""input_tokens"":24,""output_tokens"":170,""total_tokens"":194,""input_cost"":2.4e-06,""output_cost"":8.499999999999999e-05,""total_cost"":8.74e-05}",8.74e-05,3.533421400003135
+A regular polygon has each interior angle equal to 150°. How many sides does it have?,no,12,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,2.6066640000790358,"For a regular \(n\)-sided polygon, each interior angle is \(\frac{180(n-2)}{n}\) degrees. Set this equal to \(150^\circ\):
+
+\[
+\frac{180(n-2)}{n}=150 \quad\Rightarrow\quad n=12.
+\]
+
+It has **12 sides**.","{""model"":""gpt-6-luna"",""input_tokens"":25,""output_tokens"":132,""total_tokens"":157,""input_cost"":2.4999999999999998e-06,""output_cost"":6.599999999999999e-05,""total_cost"":6.849999999999998e-05}",6.849999999999998e-05,2.6066640000790358
+Find the area under y = 2x from x = 1 to x = 4.,no,15,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7623044000938535,"\[
+\text{Area}=\int_1^4 2x\,dx=[x^2]_1^4=16-1=\boxed{15}
+\]","{""model"":""gpt-6-luna"",""input_tokens"":26,""output_tokens"":77,""total_tokens"":103,""input_cost"":2.5999999999999997e-06,""output_cost"":3.85e-05,""total_cost"":4.11e-05}",4.11e-05,1.7623044000938535
+"If a:b = 2:3 and b:c = 4:5, find a:c.",no,8:15,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.9924041999038309,"Make the \(b\) terms match: \(a:b=8:12\) and \(b:c=12:15\). Therefore, \(a:c=\boxed{8:15}\).","{""model"":""gpt-6-luna"",""input_tokens"":27,""output_tokens"":101,""total_tokens"":128,""input_cost"":2.7e-06,""output_cost"":5.05e-05,""total_cost"":5.32e-05}",5.32e-05,1.9924041999038309
+A bag contains 6 white and 4 black balls. Three are drawn without replacement. What is the probability all three are white?,no,1/6,,,0.0,{},"{""model"":""none"",""input_tokens"":0,""output_tokens"":0,""total_tokens"":0,""input_cost"":0.0,""output_cost"":0.0,""total_cost"":0.0}",medium,1.7771896999329329,"\[
+P(\text{all white})=\frac{6}{10}\cdot\frac{5}{9}\cdot\frac{4}{8}=\boxed{\frac16}.
+\]","{""model"":""gpt-6-luna"",""input_tokens"":33,""output_tokens"":87,""total_tokens"":120,""input_cost"":3.2999999999999997e-06,""output_cost"":4.35e-05,""total_cost"":4.68e-05}",4.68e-05,1.7771896999329329

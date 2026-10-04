@@ -1,0 +1,5 @@
+typesafe_sdk
+openai
+pandas
+tqdm
+dotenv

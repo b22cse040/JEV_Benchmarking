@@ -1,0 +1,101 @@
+Question,Answer,is_flagged
+What is the value of 7³ - 5³?,218,no
+Solve 5x - 11 = 24.,7,no
+What is the value of (3 + 4)² - 5²?,24,no
+Find the value of cos 0° + sin 90°.,2,no
+What is the HCF of 84 and 126?,42,no
+What is the LCM of 12 and 18?,36,no
+"Find the 20th term of the AP 2, 5, 8, 11, ...",59,no
+"Find the sum of the first 8 terms of the AP 3, 6, 9, 12, ...",108,no
+"Find the 5th term of the GP 3, 6, 12, 24, ...",48,no
+"If x² = 121 and x is positive, find x.",11,no
+Find the value of log₁₀(1000).,3,no
+Find the derivative of 5x² - 3x.,10x - 3,no
+Find the value of ∫₀³ 2x dx.,9,no
+A rectangle has length 15 cm and width 8 cm. Find its diagonal.,17,no
+Find the area of a trapezium with parallel sides 8 cm and 14 cm and height 5 cm.,55,no
+What is the probability of drawing an ace from a standard 52-card deck?,1/13,no
+Find the value of |−17| + |−8|.,25,no
+Solve 2x + 3 = x + 11.,8,no
+"Find the determinant of [[5, 1], [2, 3]].",13,no
+"If the radius of a sphere is 3 cm, find its volume using π = 22/7.",792/7,no
+"If x + y = 10 and xy = 21, find x² + y².",58,no
+The roots of 2x² - 7x + 3 = 0 are α and β. Find 1/α + 1/β.,7/3,no
+"Find the sum of the first 20 terms of the AP 7, 11, 15, 19, ...",900,no
+A GP has first term 81 and common ratio 1/3. Find its 5th term.,1,no
+A 20% discount is followed by a 10% discount. Find the overall percentage discount.,28,no
+A car covers the first half of a journey at 40 km/h and the second half at 60 km/h. Find its average speed.,48,no
+Find the area of the triangle formed by the coordinate axes and the line 3x + 4y = 12.,6,no
+Find the radius of the circle x² + y² + 4x - 6y - 12 = 0.,5,no
+"If tan θ = 3/4 and θ is acute, find sin θ + cos θ.",7/5,no
+A fair die is rolled three times. Find the probability of getting exactly two sixes as a decimal.,0.06944,no
+Find the value of ∫₀¹ (3x² + 2x) dx.,2,no
+"For y = x³ - 3x² + 2, find the x-coordinate where the derivative is zero and x > 0.",2,no
+A cone has radius 3 cm and height 4 cm. Find its slant height.,5,no
+"If 3^x = 81, find x + 2.",6,no
+Find the number of diagonals in a polygon with 10 sides.,35,no
+"If x - 1/x = 2, find x² + 1/x².",6,no
+"If α and β are roots of x² - 5x + 3 = 0, find α² + β².",19,no
+Find the number of solutions of sin x = 1/2 for 0 ≤ x ≤ 2π.,2,no
+"If a + b = 7 and ab = 10, find a³ + b³.",133,no
+Find the coefficient of x³ in (1 + x)^7.,35,no
+How many distinct arrangements can be made using all the letters of the word 'LEVEL'?,30,no
+"A bag contains 4 red, 3 blue, and 2 green balls. Three balls are selected without replacement. Find the number of ways to select exactly one ball of each color.",24,no
+Find the minimum value of x² + 16/x² for x ≠ 0.,8,no
+"If x + y = 5 and x² + y² = 13, find xy.",6,no
+Find the area enclosed between y = 4 - x² and the x-axis.,32/3,no
+"A circle touches both coordinate axes and passes through (4, 2). Find the radius of the circle in the first quadrant.",3,no
+"If 2sin²x - 3sin x + 1 = 0, find the number of solutions for x in [0, 2π].",4,no
+Find the sum of all positive divisors of 36.,91,no
+"A line passes through (2, 3) and cuts positive coordinate axes at A and B. If the area of triangle OAB is 12, find the possible x-intercept when it is smaller than the y-intercept.",4,no
+Find the value of lim(x→0) [sin(3x)/x].,3,no
+What is the capital city of Japan?,NULL,yes
+Who wrote the novel Pride and Prejudice?,NULL,yes
+What is the chemical symbol for gold?,NULL,yes
+Which planet is known as the Red Planet?,NULL,yes
+What is the largest ocean on Earth?,NULL,yes
+Who painted the Mona Lisa?,NULL,yes
+What is the process by which plants convert light energy into chemical energy?,NULL,yes
+Which gas makes up most of Earth's atmosphere?,NULL,yes
+What is the SI unit of electric current?,NULL,yes
+Who was the first person to walk on the Moon?,NULL,yes
+Which organ pumps blood through the human body?,NULL,yes
+What is the hardest natural substance?,NULL,yes
+Which country is home to the ancient city of Machu Picchu?,NULL,yes
+What is the main language spoken in Brazil?,NULL,yes
+Which instrument is used to measure atmospheric pressure?,NULL,yes
+What is the boiling point of water at standard atmospheric pressure in Celsius?,NULL,yes
+Who developed the theory of general relativity?,NULL,yes
+Which mammal is capable of true sustained flight?,NULL,yes
+What is the largest internal organ in the human body?,NULL,yes
+Which layer of Earth's atmosphere contains most of the ozone?,NULL,yes
+"A number is increased by 25% and then decreased by 20%. Compared with the original number, what is the final percentage change?",0,no
+Three consecutive positive integers have product 990. What is the middle integer?,10,no
+"If x + y = 8 and x² + y² = 34, what is xy?",15,no
+"A clock gains 5 minutes every hour. If it is set correctly at noon, what time will it show at 6 PM?",6.5,no
+A farmer has chickens and goats. There are 35 animals and 94 legs. How many goats are there?,12,no
+Find the smallest positive integer that is divisible by 8 and leaves remainder 2 when divided by 5.,32,no
+"A two-digit number is 4 times the sum of its digits. If reversing its digits increases it by 18, what is the number?",24,no
+"If f(x) = x/(x+1), find f(f(1)).",1/3,no
+"A square and a circle have the same perimeter. If the square has side 11, what is the circle's radius? Give the answer in terms of π.",22/π,no
+A box contains 3 red and 2 blue balls. Two balls are drawn without replacement. What is the probability that they have different colors?,3/5,no
+"If sin θ = 3/5 and θ is acute, find cos 2θ.",7/25,no
+A sequence is defined by a₁ = 1 and aₙ₊₁ = 2aₙ + 3. Find a₅.,57,no
+Find the positive value of x satisfying √(x+9) = x.,3,no
+A rectangle has area 96 and integer side lengths. How many distinct unordered pairs of positive integer side lengths are possible?,5,no
+"If x + 1/x = 5, find x² + 1/x².",23,no
+Find the remainder when 7^100 is divided by 6.,1,no
+A test has 10 questions. Each correct answer gives 3 points and each incorrect answer loses 1 point. A student answers all questions and scores 18. How many were correct?,7,no
+"Two pipes can fill a tank in 6 hours and 8 hours respectively. If both are opened together, how many hours do they take to fill the tank?",24/7,no
+"The average of five numbers is 18. If one number is removed, the average of the remaining four is 16. What number was removed?",26,no
+A triangle has angles in the ratio 2:3:4. What is the largest angle in degrees?,80,no
+Find the number of positive integer solutions to x + y = 10 with x > y.,4,no
+A train 180 m long crosses a pole in 9 seconds. What is its speed in km/h?,72,no
+"If the roots of x² - 6x + k = 0 are equal, find k.",9,no
+A circle has radius 13 and a chord is at distance 5 from the center. Find the chord length.,24,no
+Find the smallest possible value of x + 16/x for x > 0.,8,no
+"If log₂x + log₂(x-2) = 3, find x.",4,no
+A regular polygon has each interior angle equal to 150°. How many sides does it have?,12,no
+Find the area under y = 2x from x = 1 to x = 4.,15,no
+"If a:b = 2:3 and b:c = 4:5, find a:c.",8:15,no
+A bag contains 6 white and 4 black balls. Three are drawn without replacement. What is the probability all three are white?,1/6,no
