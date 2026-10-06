@@ -10,7 +10,7 @@ load_dotenv()  # Load environment variables from .env file
 
 
 client = OpenAI()
-effort = "medium"
+effort = "high"
 
 llm = LLM(
     client=client,

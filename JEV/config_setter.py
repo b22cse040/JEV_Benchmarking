@@ -3,7 +3,7 @@ import os
 from typesafe_sdk import Choice, TypeSafeClient
 
 
-REASONING_LEVELS = {"none", "low", "medium"}
+REASONING_LEVELS = {"none", "low", "medium", "high", "xhigh"}
 
 
 class ConfigSetter:
@@ -34,6 +34,7 @@ class ConfigSetter:
                             # "minimal": "Minimal reasoning is required.",
                             "low": "Moderate reasoning or multiple steps are required.",
                             "medium": "Substantial multi-step reasoning is required.",
+                            "high": "Complex multi-step reasoning is required.",
                         },
                     ),
                 },
